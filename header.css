@@ -91,7 +91,7 @@
   border-style: none;
   font-size: 14px;
   padding-left: 10px;
-  text-size-adjust: 100px;
+  text-size-adjust: 100%;
   flex: 1;
 }
 
